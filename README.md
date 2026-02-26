@@ -95,10 +95,8 @@ Here are some ideas to get you started:
 |:---:|---|:---:|
 | 🧩 | 코딩테스트 | [📒 Notion](https://www.notion.so/30cc3911b0a380adb46bf20623193585?source=copy_link) |
 | ☁️ | Cloud Native | [📒 Notion](https://www.notion.so/Claude-Native-30cc3911b0a38026be8bdb59e00286b2?source=copy_link) |
-<!--
-| 🟣 | Kotlin | [📒 Notion](https://www.notion.so/Kotlin-30cc3911b0a3804e86b7c9fa8d058e1a?source=copy_link) |
-| 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-Boot-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
--->
+| 🟣 | Kotlin | - |
+| 🌿 | Spring | - |
 ---
 
 ## 📊 GitHub Stats
