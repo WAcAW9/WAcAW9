@@ -106,17 +106,20 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 ---
 
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wacaw9@gmail.com)
-<!--[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](블로그링크) -->
-
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](블로그링크) 
+-->
+<!--
 ---
 
 <div align="center">
 
-<!--*끝나도 멈추지 않는 개발자 — 스터디가 끝나면 추가 스터디를, 프로젝트가 끝나면 다음 도전을 찾습니다.*-->
+*끝나도 멈추지 않는 개발자 — 스터디가 끝나면 추가 스터디를, 프로젝트가 끝나면 다음 도전을 찾습니다.*
 
 </div>
+-->
