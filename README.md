@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 | 프로젝트 | 설명 | 핵심 기술 | 링크 |
 |---|---|---|:---:|
-| **Interactive Movie** | AnimationController 기반 인터랙티브 UI | Flutter Animation | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)]([레포링크](https://github.com/WAcAW9/2025_FlutterChallenge_Animation)) |
+| **Interactive Movie** | AnimationController 기반 인터랙티브 UI | Flutter Animation | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_Animation) |
 | **Any Movie** | 영화 API 연동 앱 | REST API | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MovieApp) |
 | **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | Firebase Auth · Firestore | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
 
