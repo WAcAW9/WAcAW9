@@ -50,19 +50,29 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎯 Currently Studying
-
-| 분야 | 내용 | 링크 |
-|:---:|---|:---:|
-| 🧩 | 코딩테스트 | [📒 Notion](https://www.notion.so/30cc3911b0a380adb46bf20623193585?source=copy_link) |
-| ☁️ | Cloud Native | [📒 Notion](https://www.notion.so/Claude-Native-30cc3911b0a38026be8bdb59e00286b2?source=copy_link) |
-<!--
-| 🟣 | Kotlin | [📒 Notion](https://www.notion.so/Kotlin-30cc3911b0a3804e86b7c9fa8d058e1a?source=copy_link) |
-| 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-Boot-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
--->
+## ⏳ Timeline
+```
+2023.10 ~ 2024.03    소모임 올빼미 - 스터디 모임장
+2025.07 ~ 2025.10    노마드코더 Flutter 10주 스터디 - 졸업 과제 완성 및 수료
+2025.10 ~ 2025.12    Flutter 스터디원과 자발적 연장 스터디 진행
+2025.09 ~ 2025.12    Spring 멘토멘티 프로그램 - 수료
+2025.11 ~ 2025.12    글터(Geulter) - LLM 프로젝트 경진대회 동상 수상
+```
 ---
 
 ## 📌 Projects
+
+
+### 📱 Flutter 앱 프로젝트 시리즈
+
+> 노마드코더 10주 스터디 완주 - 3개 졸업 과제
+
+| 프로젝트 | 설명 | 핵심 기술 | 링크 |
+|---|---|---|:---:|
+| **Interactive Movie** | AnimationController 기반 인터랙티브 UI | Flutter Animation | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_Animation) |
+| **Any Movie** | 영화 API 연동 앱 | REST API | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MovieApp) |
+| **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | Firebase Auth · Firestore | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
+
 
 ### 🏆 글터(Geulter) - AI 기반 글쓰기 도우미 서비스
 
@@ -77,26 +87,19 @@ Here are some ideas to get you started:
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WAcAW9/2025_Univ_Geulteo)
 
-### 📱 Flutter 앱 프로젝트 시리즈
-
-> 노마드코더 10주 스터디 완주 - 3개 졸업 과제
-
-| 프로젝트 | 설명 | 핵심 기술 | 링크 |
-|---|---|---|:---:|
-| **Interactive Movie** | AnimationController 기반 인터랙티브 UI | Flutter Animation | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_Animation) |
-| **Any Movie** | 영화 API 연동 앱 | REST API | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MovieApp) |
-| **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | Firebase Auth · Firestore | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
-
 ---
 
-## ⏳ Timeline
-```
-2023.10 ~ 2024.03    소모임 올빼미 - 스터디 모임장
-2025.07 ~ 2025.10    노마드코더 Flutter 10주 스터디 - 졸업 과제 완성 및 수료
-2025.10 ~ 2025.12    Flutter 스터디원과 자발적 연장 스터디 진행
-2025.09 ~ 2025.12    Spring 멘토멘티 프로그램 - 수료
-2025.11 ~ 2025.12    글터(Geulter) - LLM 프로젝트 경진대회 동상 수상
-```
+## 🎯 Currently Studying
+
+| 분야 | 내용 | 링크 |
+|:---:|---|:---:|
+| 🧩 | 코딩테스트 | [📒 Notion](https://www.notion.so/30cc3911b0a380adb46bf20623193585?source=copy_link) |
+| ☁️ | Cloud Native | [📒 Notion](https://www.notion.so/Claude-Native-30cc3911b0a38026be8bdb59e00286b2?source=copy_link) |
+<!--
+| 🟣 | Kotlin | [📒 Notion](https://www.notion.so/Kotlin-30cc3911b0a3804e86b7c9fa8d058e1a?source=copy_link) |
+| 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-Boot-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
+-->
+---
 
 ## 📊 GitHub Stats
 
