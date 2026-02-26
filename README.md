@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | **기술** | FastAPI · MySQL · Qdrant · JWT · SBERT |
 | **핵심 기능** | 키워드 기반 AI 문장 생성 · 유사 문장 추천 · 문장 레벨 진단 |
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WAcAW9/Mentor_Mentee)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WAcAW9/2025_Univ_Geulteo)
 
 ### 📱 Flutter 앱 프로젝트 시리즈
 
