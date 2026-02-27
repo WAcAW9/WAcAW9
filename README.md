@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 > 만들어보는 것에서 끝내지 않고, 사용자의 손에 닿는 서비스를 만드는 개발자가 되고 싶습니다.
 
-**Kotlin + Spring + Android** 기반 풀스택 개발자를 목표로, 꾸준히 학습하고 기록하며 성장하고 있습니다.
-
 ---
 
 ## 🛠️ Tech Stack
