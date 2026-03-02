@@ -79,11 +79,10 @@ Here are some ideas to get you started:
 | 항목 | 내용 |
 |---|---|
 | **기간** | 2025.11 ~ 2025.12 |
+| **링크** | [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WAcAW9/2025_Univ_Geulteo) |
 | **역할** | Back-end & 데이터 전처리 |
-| **기술** | FastAPI · MySQL · Qdrant · JWT · SBERT |
-| **핵심 기능** | 키워드 기반 AI 문장 생성 · 유사 문장 추천 · 문장 레벨 진단 |
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WAcAW9/2025_Univ_Geulteo)
+| **기술** | FastAPI / MySQL / Qdrant / JWT / SBERT |
+| **핵심 기능** | 키워드 기반 AI 문장 생성 / 유사 문장 추천 / 문장 레벨 진단 |
 
 ---
 
