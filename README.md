@@ -91,7 +91,6 @@ Here are some ideas to get you started:
 | 분야 | 내용 | 링크 |
 |:---:|---|:---:|
 | 🧩 | 코딩테스트 | [📒 Notion](https://www.notion.so/30cc3911b0a380adb46bf20623193585?source=copy_link) |
-| ☁️ | Cloud Native | [📒 Notion](https://www.notion.so/Claude-Native-30cc3911b0a38026be8bdb59e00286b2?source=copy_link) |
 | 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
 ---
 
