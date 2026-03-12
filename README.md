@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 | 분야 | 내용 | 링크 |
 |:---:|---|:---:|
-| 🧩 | 코딩테스트 | [📒 Notion](https://www.notion.so/30cc3911b0a380adb46bf20623193585?source=copy_link) [🐈‍⬛ Github](https://github.com/WAcAW9/Algorithm_Study) |
+| 🧩 | 코딩테스트 | [📒 Notion](https://festive-bit-4d6.notion.site/30cc3911b0a380adb46bf20623193585?pvs=74) [🐈‍⬛ Github](https://github.com/WAcAW9/Algorithm_Study) |
 | 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
 ---
 
