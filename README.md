@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 안녕하세요, WACAW 입니다 👋
+# 안녕하세요, WACAW 입니다👋
 
 > 만들어보는 것에서 끝내지 않고, 사용자의 손에 닿는 서비스를 만드는 개발자가 되고 싶습니다.
 
