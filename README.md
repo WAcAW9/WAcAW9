@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 2025.09 ~ 2025.12    Spring 멘토멘티 프로그램 - 수료
 2025.11 ~ 2025.12    글터(Geulter) - LLM 프로젝트 경진대회 동상 수상
 2026.03 ~            UMC 10기 - 안드로이드(Kotlin) 파트
-2026.03 ~            스프링 14기 - 백엔드(Spring) 파트
+2026.03 ~            멋쟁이사자들 14기 - 백엔드(Spring) 파트
 ```
 ---
 
