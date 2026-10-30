@@ -51,15 +51,16 @@ Here are some ideas to get you started:
 ## ⏳ Timeline
 ```
 2023.10 ~ 2024.03    소모임 올빼미 - 스터디 모임장
-2025.07 ~ 2025.10    노마드코더 Flutter 10주 스터디 - 졸업 과제 완성 및 수료
-2025.10 ~ 2025.12    Flutter 스터디원과 자발적 연장 스터디 진행
-2025.09 ~ 2025.12    Spring 멘토멘티 프로그램 - 수료
+2025.07 ~ 2025.10    노마드코더 Flutter 10주 스터디 수료
+2025.09 ~ 2025.12    Spring 멘토멘티 프로그램 수료
 2025.11 ~ 2025.12    글터(Geulter) - LLM 프로젝트 경진대회 동상 수상
-2026.03 ~            UMC 10기 - 안드로이드(Kotlin) 파트
+2026.03 ~ 2026.08    UMC 10기 - 안드로이드(Kotlin) 파트 수료
+2026.07 ~ 2026.10    Prography 11기 - 모바일(Flutter) 파트 수료
 2026.03 ~            멋쟁이사자들 14기 - 백엔드(Spring) 파트
 ```
 ---
 
+<!--
 ## 📌 Projects
 
 
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 | 🌿 | Spring | [📒 Notion](https://www.notion.so/Spring-30cc3911b0a380bcbb14ec9096afa358?source=copy_link) |
 | 📱 | Android | - |
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
